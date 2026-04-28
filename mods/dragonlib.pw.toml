@@ -1,0 +1,13 @@
+name = "DragonLib"
+filename = "dragonlib-neoforge-1.21.1-beta-3.0.25.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9471767b8c14ebebedda7a194e03c4a105ac4275"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8002680
+project-id = 946163

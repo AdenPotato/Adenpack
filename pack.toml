@@ -1,0 +1,13 @@
+name = "Aden's Mod Shed"
+author = "Aden"
+version = "0.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "78ed46f5134ffd32fd377e3995d4ef97cec094c90879fdf80f7f979b5764d6a2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
