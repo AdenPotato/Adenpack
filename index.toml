@@ -1565,8 +1565,12 @@ file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
+file = "kubejs/server_scripts/recipe_change.js"
+hash = "453137787d0528440da2ce1bfdb9ffb6e21179d746ca1285f13d17cd81c00a6c"
+
+[[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+hash = "6c607f062aae0dfb7533ed40ddd11823bfb2245bc9f3b59b0941afc3a023d1ab"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1769,6 +1773,11 @@ hash = "50b018038be4fa007f3e2edadced2aad21d5f840e290a99bbc0383f00858e3f6"
 metafile = true
 
 [[files]]
+file = "mods/certain-questing-additions.pw.toml"
+hash = "6004b8ba570106ff02293301633fcb53791c2cfc6c297dab6bc17458f1d51f12"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -1849,18 +1858,8 @@ hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
 
 [[files]]
-file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
-hash = "99755970a2ad9ed8efce13e5f275adb94ae535437e973f011671177634ac9699"
-metafile = true
-
-[[files]]
-file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "073c8410430fa1f84f4b8926ea37ce5bdcf2df764c25f44331978171311da9f2"
-metafile = true
-
-[[files]]
-file = "mods/corpse.pw.toml"
-hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
+file = "mods/corail-tombstone.pw.toml"
+hash = "511aa6d67e0f1443ea96acc1f4b947f21b5099318821a14f8c8e309966b4448c"
 metafile = true
 
 [[files]]
@@ -2089,21 +2088,6 @@ hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "2bfe1523d89098c72c7072531f60eb24c6b41fea2ee294bfcb86c3c385464c08"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
 metafile = true
@@ -2169,13 +2153,13 @@ hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
 
 [[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "fe1a2e5c0b708a8ea8935a17889774446eac3fd2daeea450f02c5806ce7f5cc8"
+file = "mods/flerovium.pw.toml"
+hash = "ab318c94ea021413ca29bdbc166219eba879214d752e77e616687b349e05e3fd"
 metafile = true
 
 [[files]]
-file = "mods/free-cam.pw.toml"
-hash = "1ec51dc8dad86f92dc52372f4491ce641b99a6ed018306b293b9cf17c3c65c6a"
+file = "mods/framedblocks.pw.toml"
+hash = "fe1a2e5c0b708a8ea8935a17889774446eac3fd2daeea450f02c5806ce7f5cc8"
 metafile = true
 
 [[files]]
@@ -2309,6 +2293,21 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "f161cd39e3619182a8606ec812634d74713d32ca30c3585bdf7d40b7bb573919"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "623fb7357556b0ff5c67c9d68a1aabe3880c5efe8bf75670e8b7c821fb66fc31"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "f68d6d20d2f1ae3edb429736a46e63fb0a7c3828d876b927431697dd289ab138"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "f61a3526d323d232fbac74dedb5d89e07f45981db1c5a705c66dbe5da7507a68"
 metafile = true
@@ -2321,6 +2320,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-tweaks.pw.toml"
+hash = "f8207cca95fb83e76e544bbfe2af4ed6e00bf30a827022c5c2c9767434d0822a"
 metafile = true
 
 [[files]]
@@ -2469,6 +2473,11 @@ hash = "51f06a47e0090803c03579803aaf558a0efb96b9576cffb7bcc98140130c2360"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
 metafile = true
@@ -2476,6 +2485,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "00fb150ec4389dbe540bcede8ac3b6e34677f5bf3e3454732d311b7e44569d63"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "28e63f7e7b895cbd11cea9f17f9e2808c46965c89b5ee7cf7c32243af70d8eab"
 metafile = true
 
 [[files]]
@@ -2594,6 +2608,11 @@ hash = "ef814edc6174b99a07d8c84a570d42315efa317e7accba2620a971715317db58"
 metafile = true
 
 [[files]]
+file = "mods/redirected.pw.toml"
+hash = "a8e09044fb84c6b63782d68be84c899fbecebf7b70ee3f36a83bcff9e475d411"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "e837a18c91a9fbe9e5d24afb89b9841baae433ae733570984a22b3e9d1603d6d"
 metafile = true
@@ -2616,6 +2635,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
 metafile = true
 
 [[files]]
@@ -2771,6 +2795,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "f9fbb25ef65a2e4512b437690e3de4f3602dbd1b5eeb1746829bc0b24fe8d885"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
 metafile = true
 
 [[files]]
