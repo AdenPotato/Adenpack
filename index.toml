@@ -2018,11 +2018,6 @@ hash = "c990b9438612bb351c69c1cb2cc4cc91056918b58d750845d6d6d79e8dceed1c"
 metafile = true
 
 [[files]]
-file = "mods/create-wizardry.pw.toml"
-hash = "af260561952e179a1386402884ba196b60174550abd420253c13b9a3cdc0dd43"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
