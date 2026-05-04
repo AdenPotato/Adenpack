@@ -1918,11 +1918,6 @@ hash = "8418d9b91e297fe19735fc0f85dcd520b6ee19b22c0662b313bc58352784b20e"
 metafile = true
 
 [[files]]
-file = "mods/create-encased.pw.toml"
-hash = "822b81fa6ccc0102ea00e22f8b6df1e6180bc39405399d50b481198419909bad"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "37c21deaf7e65569fa9dcc59a477a55ab8937153c591f1bc4d6249de9582044f"
 metafile = true
