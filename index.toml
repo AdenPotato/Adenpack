@@ -2263,11 +2263,6 @@ hash = "46fd3a8062699383239729b7f4937fdd83177581492d3b12c8ad74dd52bfe05a"
 metafile = true
 
 [[files]]
-file = "mods/ixeris.pw.toml"
-hash = "33be1a8879f73f5120095407182e2661df2db0fe3ce8253d29114efec709c09d"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
 metafile = true
