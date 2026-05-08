@@ -1,13 +1,13 @@
 name = "Only Hammers And Excavators"
-filename = "onlyhammersandexcavators-1.21.1-1.0.0.jar"
+filename = "onlyhammersandexcavators-1.21.1-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OwtcCsNI/versions/fQGkltuH/onlyhammersandexcavators-1.21.1-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/OwtcCsNI/versions/IaIUvj8H/onlyhammersandexcavators-1.21.1-1.0.1.jar"
 hash-format = "sha512"
-hash = "1c7463cf0bb830e6d6cfc4b1c05a0dd788a77667b4579a61e4541319aaf69b548b3467669f3333f0de59d78fd4dc065ff3cf86ae793e27af757e0749bd2218ac"
+hash = "4a1c632a35b5d1dafe92bdef76ffad926f2a6290e8b6138224518784097f9b9b17e744a3eadaefb7f6cc871adda4ffb8425f368f0219144a5aacec87e329ab2b"
 
 [update]
 [update.modrinth]
 mod-id = "OwtcCsNI"
-version = "fQGkltuH"
+version = "IaIUvj8H"

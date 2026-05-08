@@ -1,0 +1,13 @@
+name = "Frequency Create"
+filename = "frequency-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RgoFrYci/versions/Z3RIoTyF/frequency-0.1.1.jar"
+hash-format = "sha512"
+hash = "5853724e79c2ae490bbd0c2a134404c2b47ac6449a7512a16d7c088a7bcc787f57cebf2d0337a5e159e5075ac05dde7a6be8fb7536f254b066646e8684e419b9"
+
+[update]
+[update.modrinth]
+mod-id = "RgoFrYci"
+version = "Z3RIoTyF"

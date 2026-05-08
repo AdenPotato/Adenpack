@@ -3,11 +3,11 @@ filename = "commoncapabilities-1.21.1-neoforge-2.11.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oFXrCkDI/versions/xo2tSIkk/commoncapabilities-1.21.1-neoforge-2.11.4.jar"
-hash-format = "sha512"
-hash = "b6f72816628f13c8a23dc7f1fc9da8d47b3f143057449f22a6a18d6423827cfa82492461f7a0c54ba0f669cd8b0ba46e62e248a5b5c500d70fb4cd1ee908c689"
+hash-format = "sha1"
+hash = "8bd6ecb1649ba4b2a50b10b70a0d85a1e43a0d5f"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "oFXrCkDI"
-version = "xo2tSIkk"
+[update.curseforge]
+file-id = 7756804
+project-id = 247007
