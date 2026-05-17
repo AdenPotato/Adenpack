@@ -19,13 +19,23 @@ ServerEvents.recipes(event => {
     event.remove({id: 'modern_industrialization:upgrade/packer/quantum/sword'})
     event.remove({id: 'modern_industrialization:upgrade/packer/quantum/leggings'})
     event.remove({id: 'modern_industrialization:upgrade/packer/quantum/chestplate'})
-    event.remove({id: 'modern_industrialization:upgrade/packer/quantum/leggings'})
+    event.remove({id: 'modern_industrialization:upgrade/packer/quantum/helmet'})
     event.remove({id: 'modern_industrialization:upgrade/packer/quantum/boots'})
 
     event.remove({id: 'functionalstorage:obsidian_upgrade'})
     event.remove({id: 'functionalstorage:water_generator_upgrade'})
     event.remove({id: 'functionalstorage:dripping_upgrade'})
-    
+    event.remove({id: 'createbigcannons:mixing/alloy_steel'})
+
+    event.remove({id: 'modern_industrialization:vanilla_recipes/compressor/diamond_from_coal'})
+
+    event.remove({id: 'functionalstorage:obsidian_upgrade'})
+    event.remove({id: 'functionalstorage:water_generator_upgrade'})
+    event.remove({id: 'functionalstorage:dripping_upgrade'})
+
+    event.recipes.modern_industrialization.macerator(2, 100)
+        .itemIn('#c:ores/zinc')
+        .itemOut("3x create:raw_zinc")
 
     event.shapeless(
         Item.of('minecraft:bamboo_planks', 2),
@@ -41,3 +51,10 @@ ServerEvents.recipes(event => {
     )
 
 })
+
+MoreJS.villagerTrades(event => {
+    event.removeTrades({
+        professions: "modern_industrialization:industrialist",
+    })
+})
+
