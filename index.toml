@@ -1707,6 +1707,11 @@ hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
 
 [[files]]
+file = "mods/bandwidthoptimizer.pw.toml"
+hash = "0de0e5183d2eb6a35796b779c14714606ef338ae1fe05c808f878531bdd6a1dc"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
@@ -1982,6 +1987,11 @@ hash = "372f992cc0bbd5120fb02e66ffa01e7cc507f92aa1aad8b6da3e46818da679e5"
 metafile = true
 
 [[files]]
+file = "mods/create-fluidlogistic.pw.toml"
+hash = "1a20007347164dfeb0859377083ef9f9c18e17a6898eb9b880665d5715d1b031"
+metafile = true
+
+[[files]]
 file = "mods/create-industry.pw.toml"
 hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
 metafile = true
@@ -2073,7 +2083,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -2817,6 +2827,11 @@ hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
 metafile = true
 
 [[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
 metafile = true
@@ -2917,6 +2932,16 @@ hash = "a5f889bcf48e8246f80f7e5ef31945b87196c25e1c5ae93198a93d1944cf1e27"
 metafile = true
 
 [[files]]
+file = "mods/tiny-redstone.pw.toml"
+hash = "504ac6fa178eb7af705b5b9be4607a687d01eb20327162a411ff5fd03bf5180e"
+metafile = true
+
+[[files]]
+file = "mods/tinycreate.pw.toml"
+hash = "d8cbe78541504a1fbf22694a29ed20ed4290de3ae31fdcc10bcb520172134902"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "80c337f39bf8842d0e927f8a2fbe50566549e094ac84ee134a3cfd6977afcfea"
 metafile = true
@@ -2934,6 +2959,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "b5be069a2fae0df4cf4d032a8332c6011029f9ab9c3b9532d209747d44961dee"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "0f67fdb37d6ef354f36a1da5805b5c083be21e7367868ec81d29426d94749609"
 metafile = true
 
 [[files]]
@@ -3014,6 +3044,11 @@ metafile = true
 [[files]]
 file = "mods/wormhole.pw.toml"
 hash = "7634036c12c96a1450e928cfe839371a2b3b1433f088762480646e4b5be66948"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
